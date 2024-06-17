@@ -1,7 +1,7 @@
 .git/*
 .vs/*
 node_modules/*
-*node_modules*
+# *node_modules*
 .idea
 package/*
 build/*
